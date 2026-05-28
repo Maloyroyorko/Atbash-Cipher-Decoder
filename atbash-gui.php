@@ -26,6 +26,6 @@ $flag .= $char;
 
 }
 
-echo PHP_EOL."Your Flag IS: ".$flag.PHP_EOL;
+echo "<br>Your Flag IS: ".$flag.PHP_EOL;
 
 ?>
