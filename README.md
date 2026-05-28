@@ -3,10 +3,6 @@ A lightning-fast PHP utility to instantly decode Atbash mirror ciphers during CT
 
 # 🐘 Atbash Cipher Toolkit
 
-[![Language](https://shields.io)](https://php.net)
-[![License: MIT](https://shields.io)](https://opensource.org)
-[![Tool Type](https://shields.io)]()
-
 A lightweight, zero-dependency PHP cryptographic toolkit designed to decode strings encrypted with the classic Atbash mirror cipher. This repository features separate dedicated scripts optimized for both static automated flag parsing and interactive command-line environments.
 
 ---
